@@ -164,6 +164,6 @@ Compile TON tonlib library
 Linux portable binaries are wrapped into AppImages, at the same time MacOS portable binaries are statically linked executables.
 Linux and MacOS binaries are available for both x86-64 and arm64 architectures.
 
-## Running tests
+## Running tests 
 
 Tests are executed by running `ctest` in the build directory. See `doc/Tests.md` for more information.
