@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
   </a>
   <a href="https://t.me/tondev_eng">
+
     <img src="https://img.shields.io/badge/chat-TONDev-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Chat">
   </a>
 </p>
